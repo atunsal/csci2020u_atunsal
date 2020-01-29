@@ -1,3 +1,3 @@
 # csci2020u_atunsal
 
-Changes to test
+Welcome to atunsal's CSCI2020U repository!
