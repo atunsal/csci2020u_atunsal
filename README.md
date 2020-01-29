@@ -1,3 +1,3 @@
 # csci2020u_atunsal
 
-Welcome to atunsal's CSCI2020U repository!
+Welcome to Alper Tuna Unsal's CSCI2020U repository!
