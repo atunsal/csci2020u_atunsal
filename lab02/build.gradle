@@ -3,8 +3,14 @@ plugins {
 }
 apply plugin: 'java'
 ext {
-   javaMainClass = "gradleDemo.Demo"
+   javaMainClass = "gradleDemo.CSVDemo"
 }
 application {
     mainClassName = javaMainClass
 }
+ repositories {
+    mavenCentral()
+ }
+ dependencies {
+   implementation 'org.apache.commons:commons-csv:1.7'
+ }
