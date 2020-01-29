@@ -3,7 +3,7 @@ plugins {
 }
 apply plugin: 'java'
 ext {
-   javaMainClass = "gradleDemo.CSVDemo"
+   javaMainClass = "CSVDemo"
 }
 application {
     mainClassName = javaMainClass
