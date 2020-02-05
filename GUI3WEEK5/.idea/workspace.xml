@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78a48e50-0523-4a76-9051-0aa4c32c5d92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab04/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab04/src/sample/Lab04.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1104" />
+  </component>
+  <component name="ProjectId" id="1XOz6Zz7XvYuV7YCAUUyogRqJsp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580768918507" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager" selected="Application.ShowGridPane">
+    <configuration name="ShowBorderPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShowBorderPane" />
+      <module name="GUI3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShowFlowPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShowFlowPane" />
+      <module name="GUI3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShowGridPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShowGridPane" />
+      <module name="GUI3" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/Downloads/javafx-sdk-13.0.2/lib --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShowHBoxVBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShowHBoxVBox" />
+      <module name="GUI3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ShowFlowPane" />
+      <item itemvalue="Application.ShowGridPane" />
+      <item itemvalue="Application.ShowBorderPane" />
+      <item itemvalue="Application.ShowHBoxVBox" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShowGridPane" />
+        <item itemvalue="Application.ShowBorderPane" />
+        <item itemvalue="Application.ShowHBoxVBox" />
+        <item itemvalue="Application.ShowFlowPane" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78a48e50-0523-4a76-9051-0aa4c32c5d92" name="Default Changelist" comment="" />
+      <created>1580763269886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580763269886</updated>
+      <workItem from="1580763271504" duration="5625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5625000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580936959281">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="184" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834@0.23.1440.834" timestamp="1580936959281" />
+    <state width="1358" height="93" key="GridCell.Tab.0.bottom" timestamp="1580937363775">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="93" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1580937363775" />
+    <state width="1358" height="93" key="GridCell.Tab.0.center" timestamp="1580937363774">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="93" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1580937363774" />
+    <state width="1358" height="93" key="GridCell.Tab.0.left" timestamp="1580937363773">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="93" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1580937363773" />
+    <state width="1358" height="93" key="GridCell.Tab.0.right" timestamp="1580937363775">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1358" height="93" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1580937363775" />
+    <state x="208" y="23" width="1024" height="834" key="SettingsEditor" timestamp="1580931788637">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="208" y="23" width="1024" height="834" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1580931788637" />
+    <state x="114" y="144" key="new project wizard" timestamp="1580937117963">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="114" y="144" key="new project wizard/0.23.1440.834@0.23.1440.834" timestamp="1580937117963" />
+    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup" timestamp="1580934079388">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup/0.23.1440.834@0.23.1440.834" timestamp="1580934079388" />
+  </component>
+</project>
